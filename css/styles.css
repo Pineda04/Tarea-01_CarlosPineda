@@ -1,0 +1,14 @@
+body {
+    background-color: #1c1c1c;
+    color: #ffffff;
+    font-family: 'poppins', sans-serif;
+    text-align: center;
+    font-size: large;
+    margin: 0;
+    padding: 0;
+}
+
+.contenido {
+    max-width: 600px;
+    margin: 50px auto;
+}
